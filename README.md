@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @shabal1n
+- 👀 I’m interested in data science, app development
+- 🌱 I’m currently learning Java
