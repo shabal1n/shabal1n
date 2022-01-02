@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @shabal1n
-- 👀 I’m interested in data science, app development
+- 👋 Hi, I’m Arthur
+- 👀 I’m interested in algorithms and Back-end
 - 🌱 I’m currently learning Java
