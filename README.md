@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Artur
-- 👀 I’m interested in algorithms and back-end
-- 🌱 I’m currently coding on Java
+- 👀 I’m interested in Data Scince and Machine Learning
+- 🌱 I’m currently coding on Python
